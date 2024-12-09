@@ -16,7 +16,7 @@ This repository contains the first revision I made which was a quick prototype. 
 - The PCBs have 1.0 mm thickness instead of the more common 1.6 mm.
 - Since the PCBs are thin and big, it is necessary to use standoffs to avoid bending them when pressing keys.
 - The Teensy board is placed in the bottom board.
-- The mechanical switches are cut in the bottom so the plunge can be used to press the bottom switch. See the Step 7 in the build notes of the (Melodicade MX)[https://www.koopinstruments.com/instrument-projects/melodicade-mx].
+- The mechanical switches are cut in the bottom so the plunge can be used to press the bottom switch. See the Step 7 in the build notes of the [Melodicade MX](https://www.koopinstruments.com/instrument-projects/melodicade-mx).
 - It is recommended to use spacers between the top and bottom boards.
 - The screws in-between the switches need to be placed before the switches are soldered otherwise they won't fit.
 - Do not solder directly the Teensy board, use headers.
